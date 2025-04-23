@@ -4,3 +4,4 @@ Name: Preteka A T
 Roll No :24MCR079
 Department: MCA
 Fav: Java,UI/UX Design
+Mobile Model: Samsung M12
